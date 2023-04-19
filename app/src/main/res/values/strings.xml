@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="str1">Введите число:</string>
+    <string name="str2">Заменить</string>
+    <string name="str3">Числа:</string>
+    <string name="str4">Результат</string>
+    <string name="str5">Кол-во замен</string>
+</resources>
